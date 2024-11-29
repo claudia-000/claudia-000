@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Here are some of the Projects I participated in!
+ - NASA SpaceApps Hackathon - ‘Sky Wanderer’ (October 2024): https://github.com/asanzra/Sky-Wanderer-NASA-Space-Apps
+ - Smart Portable Charger Device, Charged through Solar Panels (September 2023 - May 2024): https://github.com/claudia-000/Smart-Portable-Charger
+ - NASA SpaceApps Hackathon - ‘Fighting Fire with Fire’ (October 2023): https://github.com/c-a00/HackathonFire
+ - University Project - 'ALPACA' - (September 2022 - May 2024): https://github.com/ALPACA-APP/ALPCA-REPOSITORY
+ - Participation in the Shadowing program ‘Yo Jefa’ (March 2023): https://www.yojefa.com/shadowing-yo-jefa-ii-edicion 
