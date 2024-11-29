@@ -26,6 +26,7 @@ Computer Engineering student with a specialized certification in Cybersecurity a
 * ✉️  You can contact me at [claudia.or102@gmail.com](mailto:claudia.or102@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects that contibute positively to society
 
+
 ### Skills
 
 
