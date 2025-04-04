@@ -1,32 +1,10 @@
 
-
-<!--
-## Hi 👋 My name is Claudia Ortiz
-**claudia-000/claudia-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hi! 👋 My name is Claudia Ortiz
+Hi! 👋 My name is Claudia
 =====================================================================================================================================
 
 Computer Engineering student with a specialized certification in Cybersecurity and Ethical Hacking
 --------------------------------------------------------------------------------------------------
 
-* 🌍  I'm based in Madrid, Spain
-* ✉️  You can contact me at [claudia.or102@gmail.com](mailto:claudia.or102@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects that contibute positively to society
-
-<br>
 
 ## Skills
 
