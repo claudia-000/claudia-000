@@ -3,6 +3,10 @@ Hi! 👋 My name is Claudia
 =====================================================================================================================================
 Computer Engineering student 
 -----------------------------
+
+<br>
+
+
 ## Skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
